@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Anis</p>
-<p>I am a technical lead and software architecture from Paris</p>
+<p align="left">My name is Anis.</p>
+<p>I am technical lead and software architecture from Paris.</p>
 
 ###
 
