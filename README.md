@@ -70,9 +70,3 @@
 
 ###
 
-<h2 align="left">Contact</h2>
-
-<p align="left">
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/anis-dhuieb">linkedin.com/in/anis-dhuieb</a><br>
-  🌐 Portfolio (coming soon): <i>aiflownet.com / dubailifecare.com / others…</i>
-</p>
